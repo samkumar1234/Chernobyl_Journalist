@@ -14,3 +14,119 @@ Chernobyl had long-term environmental and health consequences. Large areas of la
 
 Today, Chernobyl is remembered as a tragic example of how dangerous nuclear power can become when poor design, unsafe testing, and weak safety culture come together. It remains one of the most important events in the history of nuclear energy.
 
+Here's the complete, comprehensive breakdown of the Chernobyl disaster:
+
+---
+
+## 🏭 The Plant & Reactor
+
+On April 26, 1986, the Number Four RBMK reactor at Chernobyl went out of control during a low-power test, leading to an explosion and fire that demolished the reactor building and released large amounts of radiation into the atmosphere.
+
+The RBMK reactor was never built outside the USSR because it had characteristics rejected everywhere else — chief among them its inherent instability, especially on startup and shutdown. Because of the way it used graphite where American reactors use water, when operators tried to reduce power, the RBMK tended to sharply increase power production instead.
+
+RBMK reactors had no containment structure — no concrete and steel dome over the reactor designed to keep radiation inside. Consequently, radioactive elements including plutonium, iodine, strontium, and caesium were scattered over a wide area.
+
+---
+
+## 💥 The Explosion — What Happened
+
+Technicians at reactor Unit 4 attempted a poorly designed experiment. Workers shut down the reactor's power-regulating system and its emergency safety systems, and withdrew most of the control rods from its core while allowing the reactor to continue running at 7 percent power. These mistakes were compounded by others, and at 1:23 AM on April 26, the chain reaction in the core went out of control. Several explosions triggered a large fireball and blew off the heavy steel and concrete lid of the reactor.
+
+Up to 30 percent of Chernobyl's 190 metric tons of uranium was now in the atmosphere.
+
+---
+
+## ☢️ Radiation Released
+
+Between 50 and 185 million curies of radionuclides escaped into the atmosphere.
+
+Over 100 radioactive elements were released. Iodine, strontium, and caesium were the most dangerous, with half-lives of 8 days, 29 years, and 30 years respectively. Strontium-90 and Caesium-137 are still present in the area today. Caesium is the element that travelled farthest and lasts longest — it affects the entire body, especially the liver and spleen.
+
+As of 2025, it remains the world's largest known release of radioactivity into the natural environment.
+
+---
+
+## 🧑‍🚒 Immediate Deaths & Casualties
+
+Two Chernobyl plant workers died due to the explosion on the night of the accident. A further 28 people died within a few weeks as a result of acute radiation syndrome.
+
+Of 600 workers present during the early morning of April 26, 134 received high doses (0.8–16 Gy) and suffered from radiation sickness.
+
+Another 200,000 cleanup workers in 1986 and 1987 received doses of between 1 and 100 rem. Chernobyl cleanup activities eventually required about 600,000 workers total.
+
+---
+
+## 🏘️ Evacuation
+
+On April 27, the 30,000 inhabitants of Prypyat began to be evacuated.
+
+Some 350,000 people were evacuated as a result of the accident.
+
+The Soviet Union created an exclusion zone with a radius of about 18.6 miles (30 km) centered on the nuclear power plant, covering 1,017 square miles around the plant. The zone was later expanded to 1,600 square miles to include heavily radiated areas outside the initial zone.
+
+---
+
+## 🤫 Soviet Secrecy
+
+Chernobyl plant operators concealed the accident from authorities and the local population, and the government did not even begin limited evacuations until about 36 hours after the accident.
+
+The world only found out when Sweden detected radiation on a nuclear worker's clothing — not through any Soviet announcement.
+
+---
+
+## 🏥 Long-Term Health Effects
+
+**Thyroid Cancer:**
+Before the disaster, the number of children affected by thyroid cancer was relatively low globally — about 0.1–2.2 per million under age 15. After the disaster, thyroid cancer levels, particularly in children near the exposure, increased sharply. 95% of iodine-131 was ingested through milk after the disaster.
+
+By 2018, UNSCEAR reported nearly 20,000 documented thyroid cancer cases among individuals who were under 18 at the time of the accident.
+
+**Other Cancers:**
+Epidemiological studies reported increased long-term risks of leukemia, cardiovascular diseases, and cataracts among cleanup workers.
+
+**Mental Health:**
+Mental health effects were the most significant public health consequence of the accident in Ukraine, Belarus, and Russia.
+
+The Chernobyl Forum report says people in the area suffered a paralysing fatalism due to myths and misperceptions about radiation, contributing to a culture of chronic dependency. Mental health, smoking, and alcohol abuse became a far greater problem than radiation itself.
+
+---
+
+## 🌿 Environmental & Wildlife Impact
+
+Mutation rates for plants and animals increased by a factor of 20. On farms in Narodychi Raion of Ukraine, from 1986 to 1990 nearly 350 animals were born with gross deformities; only three abnormal births had been registered in the five years prior.
+
+About four square miles became known as the "Red Forest" because trees turned reddish-brown and died after absorbing high radiation. In 2015, scientists estimated there were seven times more wolves in the exclusion zone than in nearby comparable reserves, thanks to humans' absence.
+
+---
+
+## 💰 Economic Damage
+
+The Chernobyl disaster caused an estimated US$235 billion in economic damages.
+
+Belarus, which saw 23 percent of its territory contaminated, lost about a fifth of its agricultural land. At the height of disaster response in 1991, Belarus spent 22 percent of its total budget dealing with Chernobyl.
+
+---
+
+## 🏗️ The Sarcophagus & New Confinement
+
+A few weeks after the accident, crews completely covered the damaged unit in a temporary concrete structure called the "sarcophagus" to limit further radioactive release.
+
+In 2016, the New Safe Confinement — an arch-shaped steel structure over 350 feet high and 840 feet wide, the world's largest transportable building — was repositioned over the sarcophagus. It was transferred to Ukrainian authorities in 2020 and is designed to last at least 100 years.
+
+---
+
+## 🌍 Political Impact
+
+The Chernobyl disaster had massive fallout beyond radiation — the economic and political toll hastened the end of the USSR and fueled a global anti-nuclear movement.
+
+---
+
+## 🔬 Today
+
+The last reactor at Chernobyl was shut down on December 15, 2000. Decommissioning is expected to take several decades.
+
+Scientists estimate the zone around the former plant will not be fully habitable for up to 20,000 years.
+
+---
+
+This is essentially a complete knowledge base on the Chernobyl disaster — you can directly paste this into your `Chernobyl.txt` file if you want your chatbot to have richer answers!
